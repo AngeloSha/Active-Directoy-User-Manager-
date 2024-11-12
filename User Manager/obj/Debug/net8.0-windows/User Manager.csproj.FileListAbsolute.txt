@@ -1,0 +1,49 @@
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\ActiveDirectoryManager.Form1.resources
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\User Manager.csproj.GenerateResource.cache
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\User Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\User Manager.AssemblyInfoInputs.cache
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\User Manager.AssemblyInfo.cs
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\User Manager.csproj.CoreCompileInputs.cache
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\User Manager.csproj.AssemblyReference.cache
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\User Manager.exe
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\User Manager.deps.json
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\User Manager.runtimeconfig.json
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\User Manager.dll
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\User Manager.pdb
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\User Man.276B2A55.Up2Date
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\User Manager.dll
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\refint\User Manager.dll
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\User Manager.pdb
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\User Manager.genruntimeconfig.cache
+C:\Users\de-Angelo\source\repos\User Manager\User Manager\obj\Debug\net8.0-windows\ref\User Manager.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\User Manager.exe
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\User Manager.deps.json
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\User Manager.runtimeconfig.json
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\User Manager.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\User Manager.pdb
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\User Manager.csproj.AssemblyReference.cache
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\ActiveDirectoryManager.Form1.resources
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\User Manager.csproj.GenerateResource.cache
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\User Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\User Manager.AssemblyInfoInputs.cache
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\User Manager.AssemblyInfo.cs
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\User Manager.csproj.CoreCompileInputs.cache
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\User Man.276B2A55.Up2Date
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\User Manager.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\refint\User Manager.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\User Manager.pdb
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\User Manager.genruntimeconfig.cache
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\ref\User Manager.dll
+C:\Users\de-Angelo\source\repos\User Manager - Copy (2)\User Manager\obj\Debug\net8.0-windows\ActiveDirectoryManager.Form2.resources

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xbMyC5ratY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\de-Angelo\\source\\repos\\User Manager - Copy (2)\\User Manager\\User Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\de-Angelo\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\de-Angelo\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\de-Angelo\\.nuget\\packages\\system.directoryservices\\8.0.0\\system.directoryservices.8.0.0.nupkg.sha512",
+    "C:\\Users\\de-Angelo\\.nuget\\packages\\system.directoryservices.accountmanagement\\8.0.0\\system.directoryservices.accountmanagement.8.0.0.nupkg.sha512",
+    "C:\\Users\\de-Angelo\\.nuget\\packages\\system.directoryservices.protocols\\8.0.0\\system.directoryservices.protocols.8.0.0.nupkg.sha512",
+    "C:\\Users\\de-Angelo\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
